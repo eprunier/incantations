@@ -1,6 +1,6 @@
 # incantations
 
-A Clojure library designed to ... well, that part is up to you.
+My sandbox for machine learning in Clojure
 
 ## Usage
 
@@ -8,6 +8,6 @@ FIXME
 
 ## License
 
-Copyright © 2013 FIXME
+Copyright © 2013 Eric Prunier
 
 Distributed under the Eclipse Public License, the same as Clojure.
